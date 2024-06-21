@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Club Information</title>
+</head>
+<body>
+  <h1>Elegir Equipo</h1>
+  <form action="/" method="POST">
+    <select name="equipo">
+      {% for club in existing_clubs %}
+        <option value="{{ club }}">{{ club }}</option>
+      {% endfor %}
+    </select>
+    <button type="submit">Mostrar Títulos</button>
+  </form>
+
+  {% if club_info %}
+    <pre>{{ club_info }}</pre>  {% else %}
+    {% if selected_club %}
+      <p>Equipo no encontrado.</p>
+    {% endif %}
+  {% endif %}
+
+</body>
+</html>

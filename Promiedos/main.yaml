@@ -1,0 +1,6 @@
+
+web_scrap_min_index : 1
+web_scrap_max_index : 100
+web_scrap_url : "https://www.promiedos.com.ar/club="
+json_output_dir: JSONoutput
+json_output_club_data_file: clubs_data.json

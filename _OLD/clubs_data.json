@@ -1,0 +1,1705 @@
+[
+    {
+        "club": "Club Atlético All Boys",
+        "nac_titles": [],
+        "int_titles": [],
+        "loc_titles": []
+    },
+    {
+        "club": "Asociación Atlética Argentinos Juniors",
+        "nac_titles": [],
+        "int_titles": [
+            {
+                "name": "Libertadores",
+                "year": "1985",
+                "category": "Profesional"
+            },
+            {
+                "name": "Interamericana",
+                "year": "1986",
+                "category": "Profesional"
+            }
+        ],
+        "loc_titles": [
+            {
+                "name": "Liga Nacional",
+                "year": "1984",
+                "category": "Profesional"
+            },
+            {
+                "name": "Nacional",
+                "year": "1985",
+                "category": "Profesional"
+            },
+            {
+                "name": "Clausura",
+                "year": "2010",
+                "category": "Profesional"
+            }
+        ]
+    },
+    {
+        "club": "Arsenal Fútbol Club",
+        "nac_titles": [
+            {
+                "name": "Supercopa",
+                "year": "2012",
+                "category": "Profesional"
+            },
+            {
+                "name": "Copa Argentina",
+                "year": "2013",
+                "category": "Profesional"
+            }
+        ],
+        "int_titles": [
+            {
+                "name": "Sudamericana",
+                "year": "2007",
+                "category": "Profesional"
+            },
+            {
+                "name": "Suruga Bank",
+                "year": "2008",
+                "category": "Profesional"
+            }
+        ],
+        "loc_titles": [
+            {
+                "name": "Clausura",
+                "year": "2012",
+                "category": "Profesional"
+            }
+        ]
+    },
+    {
+        "club": "Club Atlético Banfield",
+        "nac_titles": [
+            {
+                "name": "Copa de Honor",
+                "year": "1920",
+                "category": "Amateur"
+            }
+        ],
+        "int_titles": [],
+        "loc_titles": [
+            {
+                "name": "Apertura",
+                "year": "2009",
+                "category": "Profesional"
+            }
+        ]
+    },
+    {
+        "club": "Club Atlético Boca Juniors",
+        "nac_titles": [
+            {
+                "name": "Copa Jockey Club",
+                "year": "1919",
+                "category": "Amateur"
+            },
+            {
+                "name": "Copa Ibarguren",
+                "year": "1919",
+                "category": "Amateur"
+            },
+            {
+                "name": "Copa Ibarguren",
+                "year": "1923",
+                "category": "Amateur"
+            },
+            {
+                "name": "Copa Ibarguren",
+                "year": "1924",
+                "category": "Amateur"
+            },
+            {
+                "name": "Copa Jockey Club",
+                "year": "1925",
+                "category": "Amateur"
+            },
+            {
+                "name": "Copa Estimulo",
+                "year": "1926",
+                "category": "Amateur"
+            },
+            {
+                "name": "Copa Ibarguren",
+                "year": "1940",
+                "category": "Profesional"
+            },
+            {
+                "name": "Copa Ibarguren",
+                "year": "1944",
+                "category": "Profesional"
+            },
+            {
+                "name": "Copa George VI",
+                "year": "1946",
+                "category": "Profesional"
+            },
+            {
+                "name": "Copa Argentina",
+                "year": "1969",
+                "category": "Profesional"
+            },
+            {
+                "name": "Copa Argentina",
+                "year": "2012",
+                "category": "Profesional"
+            },
+            {
+                "name": "Copa Argentina",
+                "year": "2015",
+                "category": "Profesional"
+            },
+            {
+                "name": "Supercopa",
+                "year": "2018",
+                "category": "Profesional"
+            },
+            {
+                "name": "Copa Maradona",
+                "year": "2020",
+                "category": "Profesional"
+            },
+            {
+                "name": "Liga Nacional",
+                "year": "2020",
+                "category": "Profesional"
+            },
+            {
+                "name": "Copa de la Liga",
+                "year": "2022",
+                "category": "Profesional"
+            },
+            {
+                "name": "Supercopa",
+                "year": "2022",
+                "category": "Profesional"
+            }
+        ],
+        "int_titles": [
+            {
+                "name": "Libertadores",
+                "year": "1977",
+                "category": "Profesional"
+            },
+            {
+                "name": "Intercontinental",
+                "year": "1977",
+                "category": "Profesional"
+            },
+            {
+                "name": "Libertadores",
+                "year": "1978",
+                "category": "Profesional"
+            },
+            {
+                "name": "Supercopa",
+                "year": "1989",
+                "category": "Profesional"
+            },
+            {
+                "name": "Recopa",
+                "year": "1990",
+                "category": "Profesional"
+            },
+            {
+                "name": "Master",
+                "year": "1992",
+                "category": "Profesional"
+            },
+            {
+                "name": "Nicolas Leoz",
+                "year": "1993",
+                "category": "Profesional"
+            },
+            {
+                "name": "Libertadores",
+                "year": "2000",
+                "category": "Profesional"
+            },
+            {
+                "name": "Intercontinental",
+                "year": "2000",
+                "category": "Profesional"
+            },
+            {
+                "name": "Libertadores",
+                "year": "2001",
+                "category": "Profesional"
+            },
+            {
+                "name": "Libertadores",
+                "year": "2003",
+                "category": "Profesional"
+            },
+            {
+                "name": "Intercontinental",
+                "year": "2003",
+                "category": "Profesional"
+            },
+            {
+                "name": "Sudamericana",
+                "year": "2004",
+                "category": "Profesional"
+            },
+            {
+                "name": "Sudamericana",
+                "year": "2005",
+                "category": "Profesional"
+            },
+            {
+                "name": "Recopa",
+                "year": "2005",
+                "category": "Profesional"
+            },
+            {
+                "name": "Recopa",
+                "year": "2006",
+                "category": "Profesional"
+            },
+            {
+                "name": "Libertadores",
+                "year": "2007",
+                "category": "Profesional"
+            },
+            {
+                "name": "Recopa",
+                "year": "2008",
+                "category": "Profesional"
+            }
+        ],
+        "loc_titles": [
+            {
+                "name": "Asociación Amateur de Fútbol",
+                "year": "1919",
+                "category": "Amateur"
+            },
+            {
+                "name": "Asociación Amateur de Fútbol",
+                "year": "1920",
+                "category": "Amateur"
+            },
+            {
+                "name": "Asociación Amateur de Fútbol",
+                "year": "1923",
+                "category": "Amateur"
+            },
+            {
+                "name": "Asociación Amateur de Fútbol",
+                "year": "1924",
+                "category": "Amateur"
+            },
+            {
+                "name": "Asociación Amateur de Fútbol",
+                "year": "1926",
+                "category": "Amateur"
+            },
+            {
+                "name": "Liga Nacional",
+                "year": "1930",
+                "category": "Amateur"
+            },
+            {
+                "name": "Liga Argentina de Fútbol",
+                "year": "1931",
+                "category": "Amateur"
+            },
+            {
+                "name": "Liga Argentina de Fútbol",
+                "year": "1934",
+                "category": "Profesional"
+            },
+            {
+                "name": "Liga Nacional",
+                "year": "1935",
+                "category": "Profesional"
+            },
+            {
+                "name": "Liga Nacional",
+                "year": "1940",
+                "category": "Profesional"
+            },
+            {
+                "name": "Liga Nacional",
+                "year": "1943",
+                "category": "Profesional"
+            },
+            {
+                "name": "Liga Nacional",
+                "year": "1944",
+                "category": "Profesional"
+            },
+            {
+                "name": "Liga Nacional",
+                "year": "1954",
+                "category": "Profesional"
+            },
+            {
+                "name": "Liga Nacional",
+                "year": "1962",
+                "category": "Profesional"
+            },
+            {
+                "name": "Liga Nacional",
+                "year": "1964",
+                "category": "Profesional"
+            },
+            {
+                "name": "Liga Nacional",
+                "year": "1965",
+                "category": "Profesional"
+            },
+            {
+                "name": "Nacional",
+                "year": "1969",
+                "category": "Profesional"
+            },
+            {
+                "name": "Nacional",
+                "year": "1970",
+                "category": "Profesional"
+            },
+            {
+                "name": "Metropolitano",
+                "year": "1976",
+                "category": "Profesional"
+            },
+            {
+                "name": "Nacional",
+                "year": "1976",
+                "category": "Profesional"
+            },
+            {
+                "name": "Liga Nacional",
+                "year": "1981",
+                "category": "Profesional"
+            },
+            {
+                "name": "Apertura",
+                "year": "1992",
+                "category": "Profesional"
+            },
+            {
+                "name": "Apertura",
+                "year": "1998",
+                "category": "Profesional"
+            },
+            {
+                "name": "Clausura",
+                "year": "1999",
+                "category": "Profesional"
+            },
+            {
+                "name": "Apertura",
+                "year": "2000",
+                "category": "Profesional"
+            },
+            {
+                "name": "Apertura",
+                "year": "2003",
+                "category": "Profesional"
+            },
+            {
+                "name": "Apertura",
+                "year": "2005",
+                "category": "Profesional"
+            },
+            {
+                "name": "Clausura",
+                "year": "2006",
+                "category": "Profesional"
+            },
+            {
+                "name": "Apertura",
+                "year": "2008",
+                "category": "Profesional"
+            },
+            {
+                "name": "Apertura",
+                "year": "2011",
+                "category": "Profesional"
+            },
+            {
+                "name": "Liga Nacional",
+                "year": "2015",
+                "category": "Profesional"
+            },
+            {
+                "name": "Liga Nacional",
+                "year": "2016",
+                "category": "Profesional"
+            },
+            {
+                "name": "Liga Nacional",
+                "year": "2017",
+                "category": "Profesional"
+            },
+            {
+                "name": "Liga Nacional",
+                "year": "2019",
+                "category": "Profesional"
+            },
+            {
+                "name": "Liga Nacional",
+                "year": "2022",
+                "category": "Profesional"
+            }
+        ]
+    },
+    {
+        "club": "Club Atlético Colón",
+        "nac_titles": [
+            {
+                "name": "Copa de la Liga",
+                "year": "2021",
+                "category": "Profesional"
+            }
+        ],
+        "int_titles": [],
+        "loc_titles": []
+    },
+    {
+        "club": "Club Estudiantes de La Plata",
+        "nac_titles": [
+            {
+                "name": "Copa Escobar",
+                "year": "1944",
+                "category": "Profesional"
+            },
+            {
+                "name": "Copa Republica",
+                "year": "1945",
+                "category": "Profesional"
+            },
+            {
+                "name": "Copa Argentina",
+                "year": "2023",
+                "category": "Profesional"
+            },
+            {
+                "name": "Copa de la Liga",
+                "year": "2024",
+                "category": "Profesional"
+            }
+        ],
+        "int_titles": [
+            {
+                "name": "Libertadores",
+                "year": "1968",
+                "category": "Profesional"
+            },
+            {
+                "name": "Intercontinental",
+                "year": "1968",
+                "category": "Profesional"
+            },
+            {
+                "name": "Libertadores",
+                "year": "1969",
+                "category": "Profesional"
+            },
+            {
+                "name": "Interamericana",
+                "year": "1969",
+                "category": "Profesional"
+            },
+            {
+                "name": "Libertadores",
+                "year": "1970",
+                "category": "Profesional"
+            },
+            {
+                "name": "Libertadores",
+                "year": "2009",
+                "category": "Profesional"
+            }
+        ],
+        "loc_titles": [
+            {
+                "name": "Federación Argentina de Fútbol",
+                "year": "1913",
+                "category": "Amateur"
+            },
+            {
+                "name": "Metropolitano",
+                "year": "1967",
+                "category": "Profesional"
+            },
+            {
+                "name": "Liga Nacional",
+                "year": "1982",
+                "category": "Profesional"
+            },
+            {
+                "name": "Nacional",
+                "year": "1983",
+                "category": "Profesional"
+            },
+            {
+                "name": "Apertura",
+                "year": "2006",
+                "category": "Profesional"
+            },
+            {
+                "name": "Apertura",
+                "year": "2010",
+                "category": "Profesional"
+            }
+        ]
+    },
+    {
+        "club": "Club de Gimnasia y Esgrima La Plata",
+        "nac_titles": [
+            {
+                "name": "Copa Centenario",
+                "year": "1993",
+                "category": "Profesional"
+            }
+        ],
+        "int_titles": [],
+        "loc_titles": [
+            {
+                "name": "Liga Nacional",
+                "year": "1929",
+                "category": "Amateur"
+            }
+        ]
+    },
+    {
+        "club": "Club Deportivo Godoy Cruz Antonio Tomba",
+        "nac_titles": [],
+        "int_titles": [],
+        "loc_titles": []
+    },
+    {
+        "club": "Club Atlético Huracán",
+        "nac_titles": [
+            {
+                "name": "Copa Estimulo",
+                "year": "1920",
+                "category": "Amateur"
+            },
+            {
+                "name": "Copa Ibarguren",
+                "year": "1922",
+                "category": "Amateur"
+            },
+            {
+                "name": "Copa Ibarguren",
+                "year": "1925",
+                "category": "Amateur"
+            },
+            {
+                "name": "Copa Escobar",
+                "year": "1942",
+                "category": "Profesional"
+            },
+            {
+                "name": "Copa Escobar",
+                "year": "1943",
+                "category": "Profesional"
+            },
+            {
+                "name": "Copa George VI",
+                "year": "1944",
+                "category": "Profesional"
+            },
+            {
+                "name": "Copa Argentina",
+                "year": "2014",
+                "category": "Profesional"
+            },
+            {
+                "name": "Supercopa",
+                "year": "2014",
+                "category": "Profesional"
+            }
+        ],
+        "int_titles": [],
+        "loc_titles": [
+            {
+                "name": "Asociación Amateur de Fútbol",
+                "year": "1921",
+                "category": "Amateur"
+            },
+            {
+                "name": "Asociación Amateur de Fútbol",
+                "year": "1922",
+                "category": "Amateur"
+            },
+            {
+                "name": "Asociación Amateur de Fútbol",
+                "year": "1925",
+                "category": "Amateur"
+            },
+            {
+                "name": "Liga Nacional",
+                "year": "1928",
+                "category": "Amateur"
+            },
+            {
+                "name": "Metropolitano",
+                "year": "1973",
+                "category": "Profesional"
+            }
+        ]
+    },
+    {
+        "club": "Club Atlético Independiente",
+        "nac_titles": [
+            {
+                "name": "Copa Competencia",
+                "year": "1914",
+                "category": "Amateur"
+            },
+            {
+                "name": "Copa Jockey Club",
+                "year": "1917",
+                "category": "Amateur"
+            },
+            {
+                "name": "Copa de Honor",
+                "year": "1918",
+                "category": "Amateur"
+            },
+            {
+                "name": "Copa Competencia",
+                "year": "1924",
+                "category": "Amateur"
+            },
+            {
+                "name": "Copa Competencia",
+                "year": "1925",
+                "category": "Amateur"
+            },
+            {
+                "name": "Copa Competencia",
+                "year": "1926",
+                "category": "Amateur"
+            },
+            {
+                "name": "Copa Ibarguren",
+                "year": "1938",
+                "category": "Profesional"
+            },
+            {
+                "name": "Copa Ibarguren",
+                "year": "1939",
+                "category": "Profesional"
+            },
+            {
+                "name": "Copa Escobar",
+                "year": "1939",
+                "category": "Profesional"
+            }
+        ],
+        "int_titles": [
+            {
+                "name": "Libertadores",
+                "year": "1964",
+                "category": "Profesional"
+            },
+            {
+                "name": "Libertadores",
+                "year": "1965",
+                "category": "Profesional"
+            },
+            {
+                "name": "Libertadores",
+                "year": "1972",
+                "category": "Profesional"
+            },
+            {
+                "name": "Libertadores",
+                "year": "1973",
+                "category": "Profesional"
+            },
+            {
+                "name": "Intercontinental",
+                "year": "1973",
+                "category": "Profesional"
+            },
+            {
+                "name": "Interamericana",
+                "year": "1973",
+                "category": "Profesional"
+            },
+            {
+                "name": "Libertadores",
+                "year": "1974",
+                "category": "Profesional"
+            },
+            {
+                "name": "Interamericana",
+                "year": "1974",
+                "category": "Profesional"
+            },
+            {
+                "name": "Libertadores",
+                "year": "1975",
+                "category": "Profesional"
+            },
+            {
+                "name": "Interamericana",
+                "year": "1976",
+                "category": "Profesional"
+            },
+            {
+                "name": "Libertadores",
+                "year": "1984",
+                "category": "Profesional"
+            },
+            {
+                "name": "Intercontinental",
+                "year": "1984",
+                "category": "Profesional"
+            },
+            {
+                "name": "Supercopa",
+                "year": "1994",
+                "category": "Profesional"
+            },
+            {
+                "name": "Recopa",
+                "year": "1995",
+                "category": "Profesional"
+            },
+            {
+                "name": "Supercopa",
+                "year": "1995",
+                "category": "Profesional"
+            },
+            {
+                "name": "Sudamericana",
+                "year": "2010",
+                "category": "Profesional"
+            },
+            {
+                "name": "Sudamericana",
+                "year": "2017",
+                "category": "Profesional"
+            },
+            {
+                "name": "Suruga Bank",
+                "year": "2018",
+                "category": "Profesional"
+            }
+        ],
+        "loc_titles": [
+            {
+                "name": "Asociación Amateur de Fútbol",
+                "year": "1922",
+                "category": "Amateur"
+            },
+            {
+                "name": "Asociación Amateur de Fútbol",
+                "year": "1926",
+                "category": "Amateur"
+            },
+            {
+                "name": "Liga Nacional",
+                "year": "1938",
+                "category": "Profesional"
+            },
+            {
+                "name": "Liga Nacional",
+                "year": "1939",
+                "category": "Profesional"
+            },
+            {
+                "name": "Liga Nacional",
+                "year": "1948",
+                "category": "Profesional"
+            },
+            {
+                "name": "Liga Nacional",
+                "year": "1960",
+                "category": "Profesional"
+            },
+            {
+                "name": "Liga Nacional",
+                "year": "1963",
+                "category": "Profesional"
+            },
+            {
+                "name": "Nacional",
+                "year": "1967",
+                "category": "Profesional"
+            },
+            {
+                "name": "Metropolitano",
+                "year": "1970",
+                "category": "Profesional"
+            },
+            {
+                "name": "Metropolitano",
+                "year": "1971",
+                "category": "Profesional"
+            },
+            {
+                "name": "Nacional",
+                "year": "1977",
+                "category": "Profesional"
+            },
+            {
+                "name": "Nacional",
+                "year": "1978",
+                "category": "Profesional"
+            },
+            {
+                "name": "Liga Nacional",
+                "year": "1983",
+                "category": "Profesional"
+            },
+            {
+                "name": "Liga Nacional",
+                "year": "1988",
+                "category": "Profesional"
+            },
+            {
+                "name": "Clausura",
+                "year": "1994",
+                "category": "Profesional"
+            },
+            {
+                "name": "Apertura",
+                "year": "2002",
+                "category": "Profesional"
+            }
+        ]
+    },
+    {
+        "club": "Club Atlético Lanús",
+        "nac_titles": [
+            {
+                "name": "Supercopa",
+                "year": "2016",
+                "category": "Profesional"
+            },
+            {
+                "name": "Copa Bicentenario",
+                "year": "2016",
+                "category": "Profesional"
+            }
+        ],
+        "int_titles": [
+            {
+                "name": "Conmebol",
+                "year": "1996",
+                "category": "Profesional"
+            },
+            {
+                "name": "Sudamericana",
+                "year": "2013",
+                "category": "Profesional"
+            }
+        ],
+        "loc_titles": [
+            {
+                "name": "Apertura",
+                "year": "2007",
+                "category": "Profesional"
+            },
+            {
+                "name": "TR",
+                "year": "2016",
+                "category": "Profesional"
+            }
+        ]
+    },
+    {
+        "club": "Club Atlético Newells Old Boys",
+        "nac_titles": [
+            {
+                "name": "Copa de Honor",
+                "year": "1911",
+                "category": "Amateur"
+            },
+            {
+                "name": "Copa Ibarguren",
+                "year": "1921",
+                "category": "Amateur"
+            },
+            {
+                "name": "Copa Escobar",
+                "year": "1949",
+                "category": "Profesional"
+            }
+        ],
+        "int_titles": [],
+        "loc_titles": [
+            {
+                "name": "Metropolitano",
+                "year": "1974",
+                "category": "Profesional"
+            },
+            {
+                "name": "Liga Nacional",
+                "year": "1987",
+                "category": "Profesional"
+            },
+            {
+                "name": "Liga Nacional",
+                "year": "1990",
+                "category": "Profesional"
+            },
+            {
+                "name": "Clausura",
+                "year": "1992",
+                "category": "Profesional"
+            },
+            {
+                "name": "Apertura",
+                "year": "2004",
+                "category": "Profesional"
+            },
+            {
+                "name": "FInicial",
+                "year": "2013",
+                "category": "Profesional"
+            }
+        ]
+    },
+    {
+        "club": "Club Atlético San Lorenzo de Almagro",
+        "nac_titles": [
+            {
+                "name": "Copa Republica",
+                "year": "1943",
+                "category": "Profesional"
+            },
+            {
+                "name": "Supercopa",
+                "year": "2015",
+                "category": "Profesional"
+            }
+        ],
+        "int_titles": [
+            {
+                "name": "Copa Mercosur",
+                "year": "2001",
+                "category": "Profesional"
+            },
+            {
+                "name": "Sudamericana",
+                "year": "2002",
+                "category": "Profesional"
+            },
+            {
+                "name": "Libertadores",
+                "year": "2014",
+                "category": "Profesional"
+            }
+        ],
+        "loc_titles": [
+            {
+                "name": "Asociación Amateur de Fútbol",
+                "year": "1923",
+                "category": "Amateur"
+            },
+            {
+                "name": "Asociación Amateur de Fútbol",
+                "year": "1924",
+                "category": "Amateur"
+            },
+            {
+                "name": "Liga Nacional",
+                "year": "1927",
+                "category": "Amateur"
+            },
+            {
+                "name": "Liga Argentina de Fútbol",
+                "year": "1933",
+                "category": "Amateur"
+            },
+            {
+                "name": "Copa de Honor",
+                "year": "1936",
+                "category": "Profesional"
+            },
+            {
+                "name": "Liga Nacional",
+                "year": "1946",
+                "category": "Profesional"
+            },
+            {
+                "name": "Liga Nacional",
+                "year": "1959",
+                "category": "Profesional"
+            },
+            {
+                "name": "Metropolitano",
+                "year": "1968",
+                "category": "Profesional"
+            },
+            {
+                "name": "Metropolitano",
+                "year": "1972",
+                "category": "Profesional"
+            },
+            {
+                "name": "Nacional",
+                "year": "1972",
+                "category": "Profesional"
+            },
+            {
+                "name": "Nacional",
+                "year": "1974",
+                "category": "Profesional"
+            },
+            {
+                "name": "Clausura",
+                "year": "1995",
+                "category": "Profesional"
+            },
+            {
+                "name": "Clausura",
+                "year": "2001",
+                "category": "Profesional"
+            },
+            {
+                "name": "Clausura",
+                "year": "2007",
+                "category": "Profesional"
+            },
+            {
+                "name": "Inicial",
+                "year": "2013",
+                "category": "Profesional"
+            }
+        ]
+    },
+    {
+        "club": "Club Atlético Tigre",
+        "nac_titles": [
+            {
+                "name": "Copa de la Superliga",
+                "year": "2019",
+                "category": "Profesional"
+            }
+        ],
+        "int_titles": [],
+        "loc_titles": []
+    },
+    {
+        "club": "Club Atlético Vélez Sarsfield",
+        "nac_titles": [
+            {
+                "name": "Supercopa",
+                "year": "2013",
+                "category": "Profesional"
+            }
+        ],
+        "int_titles": [
+            {
+                "name": "Libertadores",
+                "year": "1994",
+                "category": "Profesional"
+            },
+            {
+                "name": "Intercontinental",
+                "year": "1994",
+                "category": "Profesional"
+            },
+            {
+                "name": "Supercopa",
+                "year": "1996",
+                "category": "Profesional"
+            },
+            {
+                "name": "Interamericana",
+                "year": "1996",
+                "category": "Profesional"
+            },
+            {
+                "name": "Recopa",
+                "year": "1997",
+                "category": "Profesional"
+            }
+        ],
+        "loc_titles": [
+            {
+                "name": "Nacional",
+                "year": "1968",
+                "category": "Profesional"
+            },
+            {
+                "name": "Clausura",
+                "year": "1993",
+                "category": "Profesional"
+            },
+            {
+                "name": "Apertura",
+                "year": "1995",
+                "category": "Profesional"
+            },
+            {
+                "name": "Clausura",
+                "year": "1996",
+                "category": "Profesional"
+            },
+            {
+                "name": "Clausura",
+                "year": "1998",
+                "category": "Profesional"
+            },
+            {
+                "name": "Clausura",
+                "year": "2005",
+                "category": "Profesional"
+            },
+            {
+                "name": "Clausura",
+                "year": "2009",
+                "category": "Profesional"
+            },
+            {
+                "name": "Clausura",
+                "year": "2011",
+                "category": "Profesional"
+            },
+            {
+                "name": "Inicial",
+                "year": "2012",
+                "category": "Profesional"
+            },
+            {
+                "name": "Liga Nacional",
+                "year": "2012",
+                "category": "Profesional"
+            }
+        ]
+    },
+    {
+        "club": "Club Atlético Aldosivi",
+        "nac_titles": [],
+        "int_titles": [],
+        "loc_titles": []
+    },
+    {
+        "club": "Club Almirante Brown",
+        "nac_titles": [],
+        "int_titles": [],
+        "loc_titles": []
+    },
+    {
+        "club": "Asociación Mutual Social y Deportiva Atlético de Rafaela",
+        "nac_titles": [],
+        "int_titles": [],
+        "loc_titles": []
+    },
+    {
+        "club": "Club Atlético Tucumán",
+        "nac_titles": [],
+        "int_titles": [],
+        "loc_titles": []
+    },
+    {
+        "club": "Club Atlético Belgrano",
+        "nac_titles": [],
+        "int_titles": [],
+        "loc_titles": []
+    },
+    {
+        "club": "Club Atlético Chacarita Juniors",
+        "nac_titles": [],
+        "int_titles": [],
+        "loc_titles": [
+            {
+                "name": "Metropolitano",
+                "year": "1969",
+                "category": "Profesional"
+            }
+        ]
+    },
+    {
+        "club": "Club y Social Deportivo Defensa y Justicia",
+        "nac_titles": [],
+        "int_titles": [
+            {
+                "name": "Sudamericana",
+                "year": "2020",
+                "category": "Profesional"
+            },
+            {
+                "name": "Recopa",
+                "year": "2021",
+                "category": "Profesional"
+            }
+        ],
+        "loc_titles": []
+    },
+    {
+        "club": "Club Ferro Carril Oeste",
+        "nac_titles": [],
+        "int_titles": [],
+        "loc_titles": [
+            {
+                "name": "Nacional",
+                "year": "1982",
+                "category": "Profesional"
+            },
+            {
+                "name": "Nacional",
+                "year": "1984",
+                "category": "Profesional"
+            }
+        ]
+    },
+    {
+        "club": "Club Atlético Gimnasia y Esgrima",
+        "nac_titles": [],
+        "int_titles": [],
+        "loc_titles": []
+    },
+    {
+        "club": "Club Sportivo Independiente Rivadavia",
+        "nac_titles": [],
+        "int_titles": [],
+        "loc_titles": []
+    },
+    {
+        "club": "Instituto Atlético Central Córdoba",
+        "nac_titles": [],
+        "int_titles": [],
+        "loc_titles": []
+    },
+    {
+        "club": "Club Atlético Patronato de la Juventud Católica",
+        "nac_titles": [
+            {
+                "name": "Copa Argentina",
+                "year": "2022",
+                "category": "Profesional"
+            }
+        ],
+        "int_titles": [],
+        "loc_titles": []
+    },
+    {
+        "club": "Club Atlético Rosario Central",
+        "nac_titles": [
+            {
+                "name": "Copa Competencia",
+                "year": "1913",
+                "category": "Amateur"
+            },
+            {
+                "name": "Copa Ibarguren",
+                "year": "1915",
+                "category": "Amateur"
+            },
+            {
+                "name": "Copa de Honor",
+                "year": "1916",
+                "category": "Amateur"
+            },
+            {
+                "name": "Copa Jockey Club",
+                "year": "1916",
+                "category": "Amateur"
+            },
+            {
+                "name": "Copa Competencia",
+                "year": "1920",
+                "category": "Amateur"
+            },
+            {
+                "name": "Copa Argentina",
+                "year": "2018",
+                "category": "Profesional"
+            },
+            {
+                "name": "Copa de la Liga",
+                "year": "2023",
+                "category": "Profesional"
+            }
+        ],
+        "int_titles": [
+            {
+                "name": "Conmebol",
+                "year": "1995",
+                "category": "Profesional"
+            }
+        ],
+        "loc_titles": [
+            {
+                "name": "Nacional",
+                "year": "1971",
+                "category": "Profesional"
+            },
+            {
+                "name": "Nacional",
+                "year": "1973",
+                "category": "Profesional"
+            },
+            {
+                "name": "Nacional",
+                "year": "1980",
+                "category": "Profesional"
+            },
+            {
+                "name": "Liga Nacional",
+                "year": "1986",
+                "category": "Profesional"
+            }
+        ]
+    },
+    {
+        "club": "Club Atlético San Martín",
+        "nac_titles": [],
+        "int_titles": [],
+        "loc_titles": []
+    },
+    {
+        "club": "Club Atlético San Martín",
+        "nac_titles": [
+            {
+                "name": "Copa Republica",
+                "year": "1944",
+                "category": "Profesional"
+            }
+        ],
+        "int_titles": [],
+        "loc_titles": []
+    },
+    {
+        "club": "Club Atlético Unión",
+        "nac_titles": [],
+        "int_titles": [],
+        "loc_titles": []
+    },
+    {
+        "club": "Club Atlético Los Andes",
+        "nac_titles": [],
+        "int_titles": [],
+        "loc_titles": []
+    },
+    {
+        "club": "Club Atlético Atlanta",
+        "nac_titles": [
+            {
+                "name": "Copa Suecia",
+                "year": "1958",
+                "category": "Profesional"
+            }
+        ],
+        "int_titles": [],
+        "loc_titles": []
+    },
+    {
+        "club": "Club Atlético Nueva Chicago",
+        "nac_titles": [
+            {
+                "name": "Copa Jockey Club",
+                "year": "1933",
+                "category": "Amateur"
+            }
+        ],
+        "int_titles": [],
+        "loc_titles": []
+    },
+    {
+        "club": "Club Atlético Defensores de Belgrano",
+        "nac_titles": [],
+        "int_titles": [],
+        "loc_titles": []
+    },
+    {
+        "club": "Club Deportivo Morón",
+        "nac_titles": [],
+        "int_titles": [],
+        "loc_titles": []
+    },
+    {
+        "club": "Club Atlético Platense",
+        "nac_titles": [],
+        "int_titles": [],
+        "loc_titles": []
+    },
+    {
+        "club": "Club Social y Atlético Guillermo Brown",
+        "nac_titles": [],
+        "int_titles": [],
+        "loc_titles": []
+    },
+    {
+        "club": "Club Atlético Central Norte",
+        "nac_titles": [],
+        "int_titles": [],
+        "loc_titles": []
+    },
+    {
+        "club": "Club Atlético Chaco For Ever",
+        "nac_titles": [],
+        "int_titles": [],
+        "loc_titles": []
+    },
+    {
+        "club": "Club Cipolletti",
+        "nac_titles": [],
+        "int_titles": [],
+        "loc_titles": []
+    },
+    {
+        "club": "Club Sportivo Desamparados",
+        "nac_titles": [],
+        "int_titles": [],
+        "loc_titles": []
+    },
+    {
+        "club": "Club Atlético Talleres",
+        "nac_titles": [],
+        "int_titles": [
+            {
+                "name": "Conmebol",
+                "year": "1999",
+                "category": "Profesional"
+            }
+        ],
+        "loc_titles": []
+    },
+    {
+        "club": "Club de Gimnasia y Tiro de Salta",
+        "nac_titles": [],
+        "int_titles": [],
+        "loc_titles": []
+    },
+    {
+        "club": "Club Atlético Boca Unidos",
+        "nac_titles": [],
+        "int_titles": [],
+        "loc_titles": []
+    },
+    {
+        "club": "Club Social y Deportivo Merlo",
+        "nac_titles": [],
+        "int_titles": [],
+        "loc_titles": []
+    },
+    {
+        "club": "Centro Juventud Antoniana",
+        "nac_titles": [],
+        "int_titles": [],
+        "loc_titles": []
+    },
+    {
+        "club": "Club Gimnasia y Esgrima",
+        "nac_titles": [],
+        "int_titles": [],
+        "loc_titles": []
+    },
+    {
+        "club": "Social y Deportivo Liniers",
+        "nac_titles": [],
+        "int_titles": [],
+        "loc_titles": []
+    },
+    {
+        "club": "Club Deportivo Español",
+        "nac_titles": [],
+        "int_titles": [],
+        "loc_titles": []
+    },
+    {
+        "club": "Club Atlético Talleres",
+        "nac_titles": [],
+        "int_titles": [],
+        "loc_titles": []
+    },
+    {
+        "club": "Club Atlético Central Córdoba",
+        "nac_titles": [
+            {
+                "name": "Copa Beccar Varela",
+                "year": "1933",
+                "category": "Amateur"
+            }
+        ],
+        "int_titles": [],
+        "loc_titles": []
+    },
+    {
+        "club": "Club Atlético Estudiantes",
+        "nac_titles": [
+            {
+                "name": "Copa Jockey Club",
+                "year": "1910",
+                "category": "Amateur"
+            }
+        ],
+        "int_titles": [],
+        "loc_titles": []
+    },
+    {
+        "club": "Club Atlético Ferrocarril Midland",
+        "nac_titles": [],
+        "int_titles": [],
+        "loc_titles": []
+    },
+    {
+        "club": "Club El Porvenir",
+        "nac_titles": [],
+        "int_titles": [],
+        "loc_titles": []
+    },
+    {
+        "club": "Club Social y Cultural Deportivo Laferrere",
+        "nac_titles": [],
+        "int_titles": [],
+        "loc_titles": []
+    },
+    {
+        "club": "Club Atlético Douglas Haig",
+        "nac_titles": [],
+        "int_titles": [],
+        "loc_titles": []
+    },
+    {
+        "club": "Club Sportivo Italiano",
+        "nac_titles": [],
+        "int_titles": [],
+        "loc_titles": []
+    },
+    {
+        "club": "Club Almagro",
+        "nac_titles": [],
+        "int_titles": [],
+        "loc_titles": []
+    },
+    {
+        "club": "Club Sportivo Belgrano",
+        "nac_titles": [],
+        "int_titles": [],
+        "loc_titles": []
+    },
+    {
+        "club": "Club y Biblioteca Ramón Santamarina",
+        "nac_titles": [],
+        "int_titles": [],
+        "loc_titles": []
+    },
+    {
+        "club": "Club Atlético Colegiales",
+        "nac_titles": [],
+        "int_titles": [],
+        "loc_titles": []
+    },
+    {
+        "club": "Club Atlético Acassuso",
+        "nac_titles": [],
+        "int_titles": [],
+        "loc_titles": []
+    },
+    {
+        "club": "Club Atlético Temperley",
+        "nac_titles": [],
+        "int_titles": [],
+        "loc_titles": []
+    },
+    {
+        "club": "Club Social y Deportivo Flandria",
+        "nac_titles": [],
+        "int_titles": [],
+        "loc_titles": []
+    },
+    {
+        "club": "Club Atlético Central Córdoba",
+        "nac_titles": [],
+        "int_titles": [],
+        "loc_titles": []
+    },
+    {
+        "club": "Club Atlético Racing",
+        "nac_titles": [],
+        "int_titles": [],
+        "loc_titles": []
+    },
+    {
+        "club": "Club Mutual Crucero del Norte",
+        "nac_titles": [],
+        "int_titles": [],
+        "loc_titles": []
+    },
+    {
+        "club": "Club Atlético Sarmiento",
+        "nac_titles": [],
+        "int_titles": [],
+        "loc_titles": []
+    },
+    {
+        "club": "Club Atlético Barracas Central",
+        "nac_titles": [],
+        "int_titles": [],
+        "loc_titles": []
+    },
+    {
+        "club": "Club Atlético Brown",
+        "nac_titles": [],
+        "int_titles": [],
+        "loc_titles": []
+    },
+    {
+        "club": "Club Comunicaciones",
+        "nac_titles": [],
+        "int_titles": [],
+        "loc_titles": []
+    },
+    {
+        "club": "Club Atlético Alvarado",
+        "nac_titles": [],
+        "int_titles": [],
+        "loc_titles": []
+    },
+    {
+        "club": "Club Deportivo Armenio",
+        "nac_titles": [],
+        "int_titles": [],
+        "loc_titles": []
+    },
+    {
+        "club": "Club Deportivo Maipú",
+        "nac_titles": [],
+        "int_titles": [],
+        "loc_titles": []
+    },
+    {
+        "club": "Club Social y Deportivo Tristán Suárez",
+        "nac_titles": [],
+        "int_titles": [],
+        "loc_titles": []
+    },
+    {
+        "club": "Club Atlético San Telmo",
+        "nac_titles": [],
+        "int_titles": [],
+        "loc_titles": []
+    },
+    {
+        "club": "Club Villa Dálmine",
+        "nac_titles": [],
+        "int_titles": [],
+        "loc_titles": []
+    },
+    {
+        "club": "Club Atlético Villa San Carlos",
+        "nac_titles": [],
+        "int_titles": [],
+        "loc_titles": []
+    },
+    {
+        "club": "Club Atlético Juventud Unida Universitario",
+        "nac_titles": [],
+        "int_titles": [],
+        "loc_titles": []
+    },
+    {
+        "club": "Club Atlético y Social Defensores de Belgrano",
+        "nac_titles": [],
+        "int_titles": [],
+        "loc_titles": []
+    }
+]
